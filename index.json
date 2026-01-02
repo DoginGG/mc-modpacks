@@ -2,7 +2,7 @@
   "packs": [
     {
       "id": "neoforge-survival",
-      "name": "NeoForgeee TEST 123 Survival",
+      "name": "NeoForge Survival",
       "latest": "1.0.0",
       "zip_url": "https://github.com/DoginGG/mc-modpacks/releases/download/neoforge-survival-1.0.0/neoforge-survival-1.0.0.zip"
     }
