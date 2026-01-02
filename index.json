@@ -8,7 +8,24 @@
 
       "mc_version": "1.21.1",
       "loader": "neoforge",
-      "loader_version": "21.1.217"
+      "loader_version": "21.1.217",
+
+      "server_host": "twojserwer.ddns.net",
+      "server_port": 25565
+    },
+
+    {
+      "id": "fabric-vanilla-plus",
+      "name": "Fabric Vanilla+",
+      "latest": "1.0.0",
+      "zip_url": "https://github.com/.../fabric-vanilla-plus-1.0.0.zip",
+
+      "mc_version": "1.21.1",
+      "loader": "fabric",
+      "loader_version": "0.16.10",
+
+      "server_host": "fabric.example.net",
+      "server_port": 25566
     }
   ]
 }
