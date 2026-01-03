@@ -26,6 +26,7 @@
 
       "server_host": "fabric.example.net",
       "server_port": 25566
+      "hidden": true
     }
   ]
 }
