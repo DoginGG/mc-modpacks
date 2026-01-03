@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/DoginGG/mc-modpacks/releases/download/launcher-1.0.0/launcher-update.zip",
+  "version": "1.0.1",
+  "url": "https://github.com/DoginGG/mc-modpacks/releases/download/launcher-1.0.1/launcher-update.zip",
   "sha256": "",
-  "notes": "Naprawki GUI + poprawki aktualizacji modów."
+  "notes": "Dodanie icony"
 }
