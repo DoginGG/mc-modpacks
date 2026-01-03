@@ -24,7 +24,8 @@
       "loader": "fabric",
       "loader_version": "0.16.10",
 
-      "hidden": true
+      "server_host": "89.74.71.9",
+      "server_port": 25575
     }
   ]
 }
