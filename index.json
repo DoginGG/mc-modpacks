@@ -3,8 +3,8 @@
     {
       "id": "neoforge-survival",
       "name": "NeoForge Survival",
-      "latest": "1.0.8",
-      "zip_url": "https://github.com/DoginGG/mc-modpacks/releases/download/neoforge-survival-1.0.8/neoforge-survival-1.0.8.zip",
+      "latest": "1.0.9",
+      "zip_url": "https://github.com/DoginGG/mc-modpacks/releases/download/neoforge-survival-1.0.9/neoforge-survival-1.0.9.zip",
 
       "mc_version": "1.21.1",
       "loader": "neoforge",
