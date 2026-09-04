@@ -3,12 +3,12 @@
     {
       "id": "neoforge-survival",
       "name": "NeoForge Survival",
-      "latest": "1.1.1",
-      "zip_url": "https://github.com/DoginGG/mc-modpacks/releases/download/neoforge-survival-1.1.1/neoforge-survival-1.1.1.zip",
+      "latest": "1.1.2",
+      "zip_url": "https://github.com/DoginGG/mc-modpacks/releases/download/neoforge-survival-1.1.2/neoforge-survival-1.1.2.zip",
 
       "mc_version": "1.21.1",
       "loader": "neoforge",
-      "loader_version": "21.1.217",
+      "loader_version": "21.1.249",
 
       "server_host": "89.74.71.9",
       "server_port": 25575
